@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "544856808470",
+    "firebase_url": "https://test-ae27e.firebaseio.com",
+    "project_id": "test-ae27e",
+    "storage_bucket": "test-ae27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544856808470:android:301cddd5f77d5a5f",
+        "android_client_info": {
+          "package_name": "program.fitness.com.googleintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544856808470-ubgi4khdljbh8krr4t07rtc8rkdomv4a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "544856808470-djqcqvj5tvuo3v4e471cdvi8h5sdceg1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "544856808470-cppllidcvntubr1rar4db8bno9qbfl8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "program.fitness.com.googleintegration",
+            "certificate_hash": "5c91cfb11dae385dfd17d51ca0381e00e835635a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMl42VWsySDAPErZ7mCpjLg9hTgktwrWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544856808470-ubgi4khdljbh8krr4t07rtc8rkdomv4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544856808470:android:0bcc6c41e990193c",
+        "android_client_info": {
+          "package_name": "program.fitness.com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544856808470-5r3r0fsioi75kthihc1ntt0pe75repf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "program.fitness.com.firebase",
+            "certificate_hash": "5c91cfb11dae385dfd17d51ca0381e00e835635a"
+          }
+        },
+        {
+          "client_id": "544856808470-ubgi4khdljbh8krr4t07rtc8rkdomv4a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "544856808470-djqcqvj5tvuo3v4e471cdvi8h5sdceg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMl42VWsySDAPErZ7mCpjLg9hTgktwrWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544856808470-ubgi4khdljbh8krr4t07rtc8rkdomv4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
